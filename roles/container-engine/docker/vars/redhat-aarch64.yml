@@ -7,7 +7,7 @@ docker_version: '1.13'
 # http://mirror.centos.org/altarch/7/extras/aarch64/Packages/
 # or do 'yum --showduplicates list docker'
 docker_versioned_pkg:
-  'latest': docker-ce
+  'latest': docker
   '1.13': docker-1.13.1-103.git7f2769b.el7
   '18.03': docker-ce-18.03.1.ce-1.el7.centos
   '18.06': docker-ce-18.06.2.ce-3.el7
